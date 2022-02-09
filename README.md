@@ -34,7 +34,8 @@ Always curious and ready!
 ![ReactJS Logo](/images/reactjs.svg)
 ![NextJS Logo](/images/nextjs.svg)
 ![Typescript Logo](/images/typescript.svg)
-![Angular Logo](/images/angular.svg)
+<img src="/images/angular.svg" width="50" height="50" />
+
 
 ## 📊 Take a look in my stats
 

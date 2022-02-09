@@ -1,26 +1,63 @@
-## I'm Victor! :wave:
+<img src="./images/computer.gif" width="100%"/>
 
-🎊 Hello world!
+# 🖖 Hey dev, Welcome! <img align="right" src="https://komarev.com/ghpvc/?username=viteras007j&style=flat-square&color=blueviolet">
 
-- :hammer_and_pick: Angular2+ | ReactJS | NodeJS | Javascript | Typescript
-- :pencil2: VS Code!
-- [![Twitter][1.2]][1] Twitter [![LinkedIn][2.2]][2] Linkedin :email: `viteras10@gmail.com`
+I'm a front-end developer!
 
+Working with Software Development for the last 3 years, specialized in Front-end development using Angular and ReactJS to create apps that can be scalable and use the best practices for clean code.
 
-<details>
+Always curious and ready!
 
-<summary>My GitHub Stats</summary>
+## 👨🏻‍💻 About me
+
+<br>
+
+<img src="./images/message.gif" width="300px" align="right">
+
+- 🌎 I'm from Brazil
+- 👨🏻‍💻 Love programming and gaming
+- 🧠 Love sharing knowledge
+- 🏀 Passionate for sport
+- 📧 Reach me via viteras10@gmail.com
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## 💻 Tech stack
+
+![HTML Logo](/images/html5.svg)
+![CSS Logo](/images/css3.svg)
+![Javascript Logo](/images/javascript.svg)
+![ReactJS Logo](/images/reactjs.svg)
+![NextJS Logo](/images/nextjs.svg)
+![Typescript Logo](/images/typescript.svg)
+![Angular Logo](/images/angular.svg)
+
+## 📊 Take a look in my stats
 
 ![Victor github stats](https://github-readme-stats.vercel.app/api?username=viteras007&theme=vue&show_icons=true)
 
-</details>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<!-- Actual text -->
-###### 💾 EOF
-<!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-<!-- Links to your social media accounts -->
-[1]: https://twitter.com/viteras10
-[2]: https://www.linkedin.com/in/victor-hugomartins/
+---
+
+<p align="center" > 
+  <i>Feel free to dm me</i><br><br>
+  <a href="https://www.linkedin.com/in/victor-hugomartins/">
+  <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
+</a>
+<a href="https://twitter.com/viteras10">
+<code><img alt="My e-mail" width="32" src="./images/twitter.svg" /></code>
+</a>
+</p>

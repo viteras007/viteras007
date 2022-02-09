@@ -58,7 +58,7 @@ Always curious and ready!
   <a href="https://www.linkedin.com/in/victor-hugomartins/">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
-<a href="https://twitter.com/viteras10">
+<a href="https://twitter.com/martins_vct">
 <code><img alt="My e-mail" width="32" src="./images/twitter.svg" /></code>
 </a>
 </p>

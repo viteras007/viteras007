@@ -1,6 +1,6 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# 🖖 Hey dev, Welcome! <img align="right" src="https://komarev.com/ghpvc/?username=viteras007j&style=flat-square&color=blueviolet">
+# 🖖 Hey dev, Welcome! <img align="right" src="https://komarev.com/ghpvc/?username=viteras007&style=flat-square&color=blueviolet">
 
 I'm a front-end developer!
 

@@ -4,7 +4,7 @@
 
 I'm a front-end developer!
 
-Working with Software Development for the last 3 years, specialized in Front-end development using Angular and ReactJS to create apps that can be scalable and use the best practices for clean code.
+Working with Software Development for the last 4 years, specialized in Front-end development using Angular and ReactJS to create apps that can be scalable and use the best practices for clean code.
 
 Always curious and ready!
 

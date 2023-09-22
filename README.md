@@ -37,16 +37,6 @@ Always curious and ready!
 <img src="/images/angular.svg" width="50" height="50" />
 
 
-## 📊 Take a look in my stats
-
-![Victor github stats](https://github-readme-stats.vercel.app/api?username=viteras007&theme=vue&show_icons=true)
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>

@@ -2,9 +2,9 @@
 
 # 🖖 Hey dev, Welcome! <img align="right" src="https://komarev.com/ghpvc/?username=viteras007&style=flat-square&color=blueviolet">
 
-I'm a front-end developer!
+I'm a software engineer!
 
-Working with Software Development for the last 4 years, specialized in Front-end development using Angular and ReactJS to create apps that can be scalable and use the best practices for clean code.
+Working with Software Development for the last 4 years, specialized in development using Angular, ReactJS amd NodeJS to create apps that can be scalable and use the best practices for clean code.
 
 Always curious and ready!
 

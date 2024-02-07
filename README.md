@@ -4,7 +4,7 @@
 
 I'm a software engineer!
 
-Working with Software Development for the last 4 years, specialized in development using Angular, ReactJS amd NodeJS to create apps that can be scalable and use the best practices for clean code.
+Working with Software Development for the last 4 years, specialized in development using Angular, ReactJS and NodeJS to create apps that can be scalable and use the best practices for clean code.
 
 Always curious and ready!
 
@@ -47,8 +47,5 @@ Always curious and ready!
   <i>Feel free to dm me</i><br><br>
   <a href="https://www.linkedin.com/in/victor-hugomartins/">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
-</a>
-<a href="https://twitter.com/martins_vct">
-<code><img alt="My e-mail" width="32" src="./images/twitter.svg" /></code>
 </a>
 </p>

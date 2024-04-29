@@ -4,7 +4,7 @@
 
 I'm a software engineer!
 
-Working with Software Development for the last 4 years, specialized in development using Angular, ReactJS and NodeJS to create apps that can be scalable and use the best practices for clean code.
+Working with Software Development for the last 5 years, specialized in development using Angular, ReactJS, and NodeJS to create apps that can be scalable and use the best practices for clean code.
 
 Always curious and ready!
 

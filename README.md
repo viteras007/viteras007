@@ -1,35 +1,55 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# 🖖 Hey dev, Welcome! <img align="right" src="https://komarev.com/ghpvc/?username=viteras007&style=flat-square&color=blueviolet">
+# 🖖 Hey, I'm Victor Hugo! <img align="right" src="https://komarev.com/ghpvc/?username=viteras007&style=flat-square&color=blueviolet">
 
-I'm Victor Hugo Martins, a software engineer passionate about creating scalable, user-friendly applications and leveraging the latest technologies to build impactful solutions.
+**Frontend & Software Engineer | AI Engineering Enthusiast**
 
-## About Me
-With over 5 years in software development, I specialize in Angular, ReactJS, and NodeJS, focusing on best practices for clean code and scalable app development. My passion lies in programming and sharing knowledge, always aiming to learn and innovate.
+I'm a software engineer with 6+ years of experience building scalable, user-centric applications across fintech, e-commerce, and enterprise sectors. I specialize in Angular, React, and Node.js and am passionately exploring the intersection of web development and Generative AI, including RAG, LLMs, and LangChain.
 
-## Technical Skills 🛠️
-- **Languages:** JavaScript, TypeScript
-- **Frameworks & Libraries:** Angular, React, Next.js, Node.js
-- **Tools & Platforms:** GitHub, Docker, AWS
-- **Development Focus:** Building scalable applications with clean code practices.
+I thrive on architecting performant solutions, mentoring teams, and leveraging cutting-edge technologies to deliver measurable business outcomes.
 
-## Key Projects 📚
-- **[TaskPilot](https://github.com/viteras007/taskpilot):** A NextJS App that helps user to create tasks and organize todo's.
-- **[PizzaShop](https://github.com/viteras007/pizzashop-web):** A ReactJS App that serves like management system for restaurant owners to handle orders, menus, reviews, and more, all in the style of iFood.
-- **[Pokedex](https://github.com/viteras007/pokedex-nextjs):** A Pokedex App created in ReactJS.
+### 🛠️ Technical Skills
+**Frontend:** Angular, React, JavaScript (ES6+), TypeScript, HTML5, CSS3, RxJS, NgRx, Angular Universal (SSR)
 
-You can view these and more [here](https://github.com/viteras007).
+**Backend:** Node.js, NestJS, RESTful APIs, GraphQL
 
-## Leadership & Advocacy 🌟
-- **Mentoring:** Actively mentoring junior developers and contributing to technical growth within my team.
-- **Community Engagement:** Actively participating in communities of tech professionals and talking about best practices and career development.
+**Databases:** MongoDB, PostgreSQL
 
-## Professional Goals 🚀
-- **Career Development:** Focused on advancing my career in software engineering and taking on impactful tech challenges.
-- **Continuous Learning:** Committed to staying updated with the latest technologies and improving my coding skills.
+**AI & ML:** Prompt Engineering, Retrieval-Augmented Generation (RAG), LangChain, LLM Fine-Tuning, Vector Databases, Python
 
-## Connect with Me 📬
-- 📫 [Email](mailto:viteras10@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/victor-hugomartins/)
+**Cloud & DevOps:** AWS (Lambda, S3, EC2), Docker, CI/CD Pipelines, GitHub Actions, Webpack
 
-Looking forward to collaborating and sharing knowledge! 🌍
+**Methodologies:** Agile/Scrum, Modular Architecture, Clean Code, Performance Optimization
+
+### 📚 Featured Projects
+#### 🤖 AI & Personal Projects
+**RAG Document Assistant:** A context-aware chatbot built with Python, LangChain, Hugging Face, Streamlit, and Ollama, utilizing a RAG pipeline with vector databases for accurate responses.
+
+### 🚀 Web Development
+TaskPilot: A productivity-focused Next.js application for task management.
+
+PizzaShop: A React-based management system for restaurants, inspired by iFood.
+
+Pokedex: A modern Pokedex app built with React/Next.js.
+
+Explore more of my work here.
+
+### 🌟 Leadership & Mentorship
+I am passionate about knowledge sharing and elevating team performance. I actively:
+
+Mentor junior developers in frontend best practices and architecture.
+
+Foster collaboration and strategic thinking within cross-functional Agile teams.
+
+Engage with tech communities to discuss best practices and career development.
+
+### 📫 Let's Connect!
+I'm always open to discussing technology, collaboration, and new opportunities.
+
+📧 Email: viteras10@gmail.com
+
+💼 LinkedIn: linkedin.com/in/victor-hugomartins
+
+💻 GitHub: github.com/viteras007
+
+Looking forward to building something amazing together! 🌍
